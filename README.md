@@ -1,13 +1,20 @@
-# MAD_Practical-6_21012011155
+What is Service? Write down types of Service. Create an MP3 player application by using service by following below instructions.
 
-Study: Service, Types of Service, Drawable Icon Add in project, MediaPlayer, Add Raw folder, Add mp3 song in raw folder
+Create MainActivity and design according to shown in below image.
 
-AIM: What is Service? Write down types of Service. Create an MP3 player application by using service by following below instructions.
+Create Service Class and implement MediaPlayer Object.
 
-Create MainActivity and design according to shown in below image. 
+Ans :-
 
-Create Service Class and implement MediaPlayer Object
+-> Services in Android are a special component that facilitates an application to run in the background in order to perform long-running operation tasks. The prime aim of a service is to ensure that the application remains active in the background so that the user can operate multiple applications at the same time.
 
-![WhatsApp Image 2023-10-01 at 17 52 25](https://github.com/Vivekkanjiya/MAD_Practical-6_21012011155/assets/98510847/401f0c4c-af5e-4604-972d-32d43e655eb9)
+-> Types of service :-
 
-![WhatsApp Image 2023-10-01 at 17 52 25](https://github.com/Vivekkanjiya/MAD_Practical-6_21012011155/assets/98510847/d289c552-7248-4180-a4bb-50c21eb5a890)
+Foreground Service
+Background Service
+Bound Service
+-> Output :-
+
+<img width="252" alt="Screenshot 2023-11-02 at 3 07 18 AM" src="https://github.com/Parth1820/MAD_Practical-6_21012011155/assets/139493808/09c756e5-7dfe-4f73-a96d-be3e7948676f">
+<img width="249" alt="Screenshot 2023-11-02 at 3 07 42 AM" src="https://github.com/Parth1820/MAD_Practical-6_21012011155/assets/139493808/9a63183a-8456-4978-84ec-92bda68b0a86">
+
